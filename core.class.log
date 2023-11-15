@@ -1,0 +1,186 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561146270@s.whatsapp.net',
+    fromMe: false,
+    id: 'AA66CD6D48CCCD3B36FCD769CF035E5E',
+    participant: undefined
+  },
+  messageTimestamp: 1699999999,
+  pushName: 'Semicirculo Digital',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5215561146270'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_80d013a0-ddcf-4a63-9d0a-56a11b937d27',
+  keyword: 'key_2b4582bc-7b87-4819-9965-8ee5a3199930',
+  answer: 'Bivenido a *Móvil Tech*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'de2c1d4793e7efd92436564c582bd3dc'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_466217c0-c144-4681-8c2f-836921b52cc0',
+  keyword: 'ans_80d013a0-ddcf-4a63-9d0a-56a11b937d27',
+  answer: '¿Como podemos ayudarte?\n' +
+    '\n' +
+    '*1* Ver estatus de reparacion\n' +
+    '*2* Deparamento ventas\n' +
+    '*3* Administracion',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ed43ef8fce269b77ff80c0b30c9e1362'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_abd8adb1-b92a-4331-b6d2-96554b984c06',
+  keyword: 'ans_466217c0-c144-4681-8c2f-836921b52cc0',
+  answer: 'Responda con el numero de la opcion!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '71293aacb9e093f6c19f8fd5a1a9c7d4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561146270@s.whatsapp.net',
+    fromMe: false,
+    id: 'B945F59FDBE20C223A46033746349A87',
+    participant: undefined
+  },
+  messageTimestamp: 1700000004,
+  pushName: 'Semicirculo Digital',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5215561146270'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_80d013a0-ddcf-4a63-9d0a-56a11b937d27',
+  keyword: 'key_2b4582bc-7b87-4819-9965-8ee5a3199930',
+  answer: 'Bivenido a *Móvil Tech*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'de2c1d4793e7efd92436564c582bd3dc'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_466217c0-c144-4681-8c2f-836921b52cc0',
+  keyword: 'ans_80d013a0-ddcf-4a63-9d0a-56a11b937d27',
+  answer: '¿Como podemos ayudarte?\n' +
+    '\n' +
+    '*1* Ver estatus de reparacion\n' +
+    '*2* Deparamento ventas\n' +
+    '*3* Administracion',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ed43ef8fce269b77ff80c0b30c9e1362'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_abd8adb1-b92a-4331-b6d2-96554b984c06',
+  keyword: 'ans_466217c0-c144-4681-8c2f-836921b52cc0',
+  answer: 'Responda con el numero de la opcion!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '71293aacb9e093f6c19f8fd5a1a9c7d4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561146270@s.whatsapp.net',
+    fromMe: false,
+    id: 'F8BD7A03D9A8AE161B0291816107B2B8',
+    participant: undefined
+  },
+  messageTimestamp: 1700000007,
+  pushName: 'Semicirculo Digital',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5215561146270'
+}
+Error al encolar (ID ans_eb1df64e-f5b1-46f8-9f59-3102eb0c56f9): TypeError: Cannot read properties of undefined (reading 'length')
+    at Object.ans_eb1df64e-f5b1-46f8-9f59-3102eb0c56f9 (/Users/jorzarios/Documents/fabricaProducer/ai/mvp-celular-reparacion/flows/flowReparacion.js:42:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async runContext (/Users/jorzarios/Documents/fabricaProducer/ai/mvp-celular-reparacion/node_modules/@bot-whatsapp/bot/lib/bundle.bot.cjs:1377:17)
+    at async cbEveryCtx (/Users/jorzarios/Documents/fabricaProducer/ai/mvp-celular-reparacion/node_modules/@bot-whatsapp/bot/lib/bundle.bot.cjs:1403:13)
+    at async resolveCbEveryCtx (/Users/jorzarios/Documents/fabricaProducer/ai/mvp-celular-reparacion/node_modules/@bot-whatsapp/bot/lib/bundle.bot.cjs:1334:17)
+    at async Object.promiseInFunc (/Users/jorzarios/Documents/fabricaProducer/ai/mvp-celular-reparacion/node_modules/@bot-whatsapp/bot/lib/bundle.bot.cjs:1183:29)
+    at async /Users/jorzarios/Documents/fabricaProducer/ai/mvp-celular-reparacion/node_modules/@bot-whatsapp/bot/lib/bundle.bot.cjs:529:35
+    at async Promise.allSettled (index 0)
+    at async Queue.processQueue (/Users/jorzarios/Documents/fabricaProducer/ai/mvp-celular-reparacion/node_modules/@bot-whatsapp/bot/lib/bundle.bot.cjs:547:13)

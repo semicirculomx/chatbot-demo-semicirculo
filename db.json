@@ -1,0 +1,248 @@
+[
+  {
+    "ref": "12b8035a-d587-4652-923e-0174b5294743",
+    "keyword": "fe77d8ca95a0ac890069daca87b99a5e",
+    "answer": "Hola",
+    "options": {},
+    "from": "5215561146270",
+    "refSerialize": "c22e4066d61d81721def9b25d8a397e8"
+  },
+  {
+    "ref": "ans_80d013a0-ddcf-4a63-9d0a-56a11b937d27",
+    "keyword": "key_2b4582bc-7b87-4819-9965-8ee5a3199930",
+    "answer": "Bivenido a *Móvil Tech*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "de2c1d4793e7efd92436564c582bd3dc",
+    "from": "5215561146270"
+  },
+  {
+    "ref": "ans_abd8adb1-b92a-4331-b6d2-96554b984c06",
+    "keyword": "ans_466217c0-c144-4681-8c2f-836921b52cc0",
+    "answer": "Responda con el numero de la opcion!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "71293aacb9e093f6c19f8fd5a1a9c7d4",
+    "from": "5215561146270"
+  },
+  {
+    "ref": "ans_466217c0-c144-4681-8c2f-836921b52cc0",
+    "keyword": "ans_80d013a0-ddcf-4a63-9d0a-56a11b937d27",
+    "answer": "¿Como podemos ayudarte?\n\n*1* Ver estatus de reparacion\n*2* Deparamento ventas\n*3* Administracion",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "ed43ef8fce269b77ff80c0b30c9e1362",
+    "from": "5215561146270"
+  },
+  {
+    "ref": "ans_abd8adb1-b92a-4331-b6d2-96554b984c06",
+    "keyword": "ans_466217c0-c144-4681-8c2f-836921b52cc0",
+    "answer": "Responda con el numero de la opcion!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "71293aacb9e093f6c19f8fd5a1a9c7d4",
+    "from": "5215561146270"
+  },
+  {
+    "ref": "ans_abd8adb1-b92a-4331-b6d2-96554b984c06",
+    "keyword": "ans_466217c0-c144-4681-8c2f-836921b52cc0",
+    "answer": "Responda con el numero de la opcion!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "71293aacb9e093f6c19f8fd5a1a9c7d4",
+    "from": "5215561146270"
+  },
+  {
+    "ref": "2020ad3e-46ae-4962-8ee6-01b43518c8eb",
+    "keyword": "71293aacb9e093f6c19f8fd5a1a9c7d4",
+    "answer": "2",
+    "options": {},
+    "from": "5215561146270",
+    "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
+  },
+  {
+    "ref": "ans_80d013a0-ddcf-4a63-9d0a-56a11b937d27",
+    "keyword": "key_2b4582bc-7b87-4819-9965-8ee5a3199930",
+    "answer": "Bivenido a *Móvil Tech*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "de2c1d4793e7efd92436564c582bd3dc",
+    "from": "5215561146270"
+  },
+  {
+    "ref": "ans_abd8adb1-b92a-4331-b6d2-96554b984c06",
+    "keyword": "ans_466217c0-c144-4681-8c2f-836921b52cc0",
+    "answer": "Responda con el numero de la opcion!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "71293aacb9e093f6c19f8fd5a1a9c7d4",
+    "from": "5215561146270"
+  },
+  {
+    "ref": "ans_466217c0-c144-4681-8c2f-836921b52cc0",
+    "keyword": "ans_80d013a0-ddcf-4a63-9d0a-56a11b937d27",
+    "answer": "¿Como podemos ayudarte?\n\n*1* Ver estatus de reparacion\n*2* Deparamento ventas\n*3* Administracion",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "ed43ef8fce269b77ff80c0b30c9e1362",
+    "from": "5215561146270"
+  },
+  {
+    "ref": "ans_abd8adb1-b92a-4331-b6d2-96554b984c06",
+    "keyword": "ans_466217c0-c144-4681-8c2f-836921b52cc0",
+    "answer": "Responda con el numero de la opcion!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "71293aacb9e093f6c19f8fd5a1a9c7d4",
+    "from": "5215561146270"
+  },
+  {
+    "ref": "ans_abd8adb1-b92a-4331-b6d2-96554b984c06",
+    "keyword": "ans_466217c0-c144-4681-8c2f-836921b52cc0",
+    "answer": "Responda con el numero de la opcion!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "71293aacb9e093f6c19f8fd5a1a9c7d4",
+    "from": "5215561146270"
+  },
+  {
+    "ref": "af773490-43db-4bed-8442-1f67b7fa7462",
+    "keyword": "71293aacb9e093f6c19f8fd5a1a9c7d4",
+    "answer": "1",
+    "options": {},
+    "from": "5215561146270",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_eb1df64e-f5b1-46f8-9f59-3102eb0c56f9",
+    "keyword": "key_32deb1f5-897c-45c0-94de-4abe50f350e6",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b7ba2e66ec65a164f73c63e97d6ed27c",
+    "from": "5215561146270"
+  },
+  {
+    "ref": "d82d8276-8de4-4fe7-81a0-9225d3d04d5c",
+    "keyword": null,
+    "answer": "Consultando en la base de datos...",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5215561146270",
+    "refSerialize": "1f0838a9d5e0ab4d14583bddfab3fce3"
+  }
+]
