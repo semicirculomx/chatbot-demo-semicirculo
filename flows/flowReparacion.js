@@ -1,4 +1,4 @@
-const { addKeyword } = require("@bot-whatsapp/bot");
+const { addKeyword, EVENTS } = require("@bot-whatsapp/bot");
 const { getUser, getTicket } = require("../api/users.service");
 const { readFileSync } = require("fs");
 const { join } = require("path");
@@ -20,9 +20,7 @@ const getPrompt = async () => {
  */
 module.exports = {
   flowReparacion: (chatgptClass) => {
-    return addKeyword("1", {
-      sensitive: true,
-    })
+    return addKeyword(EVENTS.ACTION)
       .addAction(async (ctx, { endFlow, flowDynamic, provider }) => {
         await flowDynamic("Consultando en la base de datos...");
 

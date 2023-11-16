@@ -1,5 +1,5 @@
 require("dotenv").config();
-const { createBot, createProvider, createFlow } = require("@bot-whatsapp/bot");
+const { createBot, createProvider, createFlow, } = require("@bot-whatsapp/bot");
 const QRPortalWeb = require("@bot-whatsapp/portal");
 const BaileysProvider = require("@bot-whatsapp/provider/baileys");
 const JsonFileAdapter = require('@bot-whatsapp/database/json');
@@ -17,6 +17,12 @@ const flowPrincipal = require("./flows/flowPrincipal");
 const flowAgente = require("./flows/flowAgente");
 const { flowReparacion } = require("./flows/flowReparacion");
 const { flowOfertas } = require("./flows/flowOfertas");
+const flowActivarDemoGym = require("./flows/flowActivarDemoGym");
+const flowDistribuidor = require("./flows/flowDistribuidor");
+const flujoBienvenida = require("./flows/flowBienvenida_gym");
+const flujoPedirDatos = require("./flows/pedirDatos_gym");
+const flujoInformacion = require("./flows/flowInfo_gym");
+const flujoReserva = require("./flows/flowReservas_gym");
 
 /**
  * Funcion principal
@@ -24,11 +30,19 @@ const { flowOfertas } = require("./flows/flowOfertas");
 const main = async () => {
   const adapterDB = new JsonFileAdapter();
 
+
+
   const adapterFlow = createFlow([
     flowPrincipal,
     flowAgente,
     flowReparacion(chatGPT),
     flowOfertas(chatGPT),
+    flowActivarDemoGym,
+    flowDistribuidor,
+    flujoBienvenida,
+    flujoPedirDatos,
+    flujoInformacion,
+    flujoReserva
   ]);
   
   const adapterProvider = createProvider(BaileysProvider);
