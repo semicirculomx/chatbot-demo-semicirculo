@@ -1,7 +1,7 @@
 [
   {
-    "ref": "ans_ccf5ec7a-33a3-4287-b7f2-43c00febc2b4",
-    "keyword": "key_cdac733f-fd3d-44bc-9608-27715ef921aa",
+    "ref": "ans_d8422631-4e60-41f7-aacb-bea3a78a9a5b",
+    "keyword": "key_0b2621b0-5803-4520-9985-259148ba8ecc",
     "answer": "Bivenid@ a *Demo Bot de Semicirculo*",
     "options": {
       "media": null,
@@ -14,11 +14,11 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "1501a21357de888a28d8defe31575a24",
+    "refSerialize": "cd9df87401800c0bf5861c6cd7573750",
     "from": "5215561146270"
   },
   {
-    "ref": "19f00006-a387-45ab-ba53-7dfb1133a0c5",
+    "ref": "ec3d7556-3660-4213-a44a-2e2a0c5598ef",
     "answer": "Soy demobot tu asistente el día de hoy",
     "options": {
       "media": null,
@@ -30,7 +30,7 @@
     "refSerialize": "973ecaf142fd4c93a733e31222de04f3"
   },
   {
-    "ref": "b319e876-61fd-46f5-bd91-05621ce4a0ce",
+    "ref": "f113c712-1e3f-4a77-8288-616c18cc3828",
     "answer": "¿Qué tipo de bot quieres probar?\n*1* Bot de reparación de celulares\n*2* Bot para reservar clase de prueba",
     "options": {
       "media": null,
@@ -42,8 +42,8 @@
     "refSerialize": "b536255bdf68a613e48453a817b71150"
   },
   {
-    "ref": "ans_d8a9d85f-69c3-4f25-8d99-913b84c20830",
-    "keyword": "ans_ccf5ec7a-33a3-4287-b7f2-43c00febc2b4",
+    "ref": "ans_fc7656cd-e366-4094-9983-0181da9c38fe",
+    "keyword": "ans_d8422631-4e60-41f7-aacb-bea3a78a9a5b",
     "answer": "Escríbe en el chat el número del bot que quieres probar! ",
     "options": {
       "media": null,
@@ -56,38 +56,20 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "480c5afb0227840f6107f429563a9045",
+    "refSerialize": "09096a6a035266afa2874c00ae496da6",
     "from": "5215561146270"
   },
   {
-    "ref": "ans_d8a9d85f-69c3-4f25-8d99-913b84c20830",
-    "keyword": "ans_ccf5ec7a-33a3-4287-b7f2-43c00febc2b4",
-    "answer": "Escríbe en el chat el número del bot que quieres probar! ",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": true,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "480c5afb0227840f6107f429563a9045",
-    "from": "5215561146270"
-  },
-  {
-    "ref": "2587cf9a-a4a4-46bd-abf5-62d31a8ae386",
-    "keyword": "480c5afb0227840f6107f429563a9045",
+    "ref": "75664889-30ef-45bb-9e00-06d3f137aaf6",
+    "keyword": "09096a6a035266afa2874c00ae496da6",
     "answer": "1",
     "options": {},
     "from": "5215561146270",
     "refSerialize": "290236b1d481a790a200ea6e94b2122a"
   },
   {
-    "ref": "ans_16290c81-ead6-4670-aa54-1043804ab221",
-    "keyword": "ans_d8a9d85f-69c3-4f25-8d99-913b84c20830",
+    "ref": "ans_232dbaaf-93d4-4ea4-898a-d30e69610276",
+    "keyword": "ans_fc7656cd-e366-4094-9983-0181da9c38fe",
     "answer": "__call_action__",
     "options": {
       "media": null,
@@ -100,12 +82,12 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "c9cdb4b0e1a1a21503269830c2c31ee5",
+    "refSerialize": "fcc76c49ba1ffa7307203ee43171aa8a",
     "from": "5215561146270"
   },
   {
-    "ref": "ans_6c92bb5e-7e4a-4cb2-9b12-60169d40208a",
-    "keyword": "key_2fec6927-5ca6-4c35-b73b-1026b2afe7e5",
+    "ref": "ans_cac7d50b-3c52-42ea-afaa-e22ee404efc3",
+    "keyword": "key_84e5712b-f8a7-4987-a1b1-1b34deee68bb",
     "answer": "Inicializando la demo..",
     "options": {
       "media": null,
@@ -118,12 +100,12 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "764d653059a94949ea86d5648769676b",
+    "refSerialize": "02f6dad01dd88712b8d8fd62d0bc0476",
     "from": "5215561146270"
   },
   {
-    "ref": "ans_2b074990-d8cc-423a-8239-7d593e23ec4a",
-    "keyword": "key_2a8b5fbe-1484-4e64-86cc-1a0173081f4b",
+    "ref": "ans_d3f00fc0-50f0-4f05-a1d3-38dc870a562a",
+    "keyword": "key_8db26d3f-b4bf-4f8c-829b-c703a39685fd",
     "answer": "Listo",
     "options": {
       "media": null,
@@ -136,12 +118,12 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "90d3b0ca8a77cbf155ff2237be690814",
+    "refSerialize": "d8020406a225fcae99937eb1d306ad2a",
     "from": "5215561146270"
   },
   {
-    "ref": "ans_89f15327-cccb-4c60-8778-e5d375e3cf82",
-    "keyword": "key_c1828c50-961c-4cf0-94d3-9478f819d17a",
+    "ref": "ans_84f47bd6-d629-4ae3-b67f-99784c9cba44",
+    "keyword": "key_8eb9bb4f-c5dc-4d54-8af2-7e9c5334567d",
     "answer": "👋 ¡Hola! Soy el asistente virtual del Gimnasio de Box \"Último Round\".",
     "options": {
       "media": null,
@@ -154,12 +136,12 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "72f8747fb053d8b9770731fbade20266",
+    "refSerialize": "b92db7e0606882e8b3f5ee16243cfdf5",
     "from": "5215561146270"
   },
   {
-    "ref": "ans_9214fd61-99dc-4762-99ee-e3a0c943cf52",
-    "keyword": "key_59a74ee5-17fe-4a24-81db-5af0f7499a27",
+    "ref": "ans_5e7b6d32-ce59-4dcf-9510-5bd99c77afec",
+    "keyword": "key_098f5d1f-4cf6-4304-9e2a-694e8cb5bbb6",
     "answer": "¿Cómo te llamas? Por favor, escríbeme tu nombre.",
     "options": {
       "media": null,
@@ -172,19 +154,19 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "a54dcc33cc21bf03f9ead6a4e37e8e55",
+    "refSerialize": "b24e31d9f7cae8ec07a126b3dee766c8",
     "from": "5215561146270"
   },
   {
-    "ref": "0142ac47-ba7b-49fb-89d3-fe1f4bb09abb",
-    "keyword": "a54dcc33cc21bf03f9ead6a4e37e8e55",
+    "ref": "66068638-c99b-44c3-a010-d183100903f2",
+    "keyword": "b24e31d9f7cae8ec07a126b3dee766c8",
     "answer": "Jorge",
     "options": {},
     "from": "5215561146270",
     "refSerialize": "47a0d1ace8acd19f70b6a238158479c1"
   },
   {
-    "ref": "aaef110f-18a5-42ee-98e1-d7b21c1a1e61",
+    "ref": "13976860-969b-4f6e-bc59-53db51db7eca",
     "answer": "Gracias! seguimos pendientes",
     "options": {
       "media": null,
@@ -194,524 +176,5 @@
     },
     "from": "5215561146270",
     "refSerialize": "5c2dffc2c7a8429185a3c18f86f2aae1"
-  },
-  {
-    "ref": "7aa0dd41-982d-4ad6-a9fc-2a195a140c70",
-    "keyword": "47a0d1ace8acd19f70b6a238158479c1",
-    "answer": "Hola",
-    "options": {},
-    "from": "5215561146270",
-    "refSerialize": "c22e4066d61d81721def9b25d8a397e8"
-  },
-  {
-    "ref": "ans_ccf5ec7a-33a3-4287-b7f2-43c00febc2b4",
-    "keyword": "key_cdac733f-fd3d-44bc-9608-27715ef921aa",
-    "answer": "Bivenid@ a *Demo Bot de Semicirculo*",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "1501a21357de888a28d8defe31575a24",
-    "from": "5215561146270"
-  },
-  {
-    "ref": "5143365b-b6c2-4b00-88ba-0eeff87dcf97",
-    "answer": "Soy demobot tu asistente el día de hoy",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "5215561146270",
-    "refSerialize": "973ecaf142fd4c93a733e31222de04f3"
-  },
-  {
-    "ref": "23be33a7-b407-4e2a-a743-21e0f014bd45",
-    "answer": "¿Qué tipo de bot quieres probar?\n*1* Bot de reparación de celulares\n*2* Bot para reservar clase de prueba",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "5215561146270",
-    "refSerialize": "b536255bdf68a613e48453a817b71150"
-  },
-  {
-    "ref": "ans_d8a9d85f-69c3-4f25-8d99-913b84c20830",
-    "keyword": "ans_ccf5ec7a-33a3-4287-b7f2-43c00febc2b4",
-    "answer": "Escríbe en el chat el número del bot que quieres probar! ",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": true,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "480c5afb0227840f6107f429563a9045",
-    "from": "5215561146270"
-  },
-  {
-    "ref": "ans_d8a9d85f-69c3-4f25-8d99-913b84c20830",
-    "keyword": "ans_ccf5ec7a-33a3-4287-b7f2-43c00febc2b4",
-    "answer": "Escríbe en el chat el número del bot que quieres probar! ",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": true,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "480c5afb0227840f6107f429563a9045",
-    "from": "5215561146270"
-  },
-  {
-    "ref": "8176db7d-5e3a-467d-af8c-51698938ca0c",
-    "keyword": "480c5afb0227840f6107f429563a9045",
-    "answer": "1",
-    "options": {},
-    "from": "5215561146270",
-    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
-  },
-  {
-    "ref": "ans_16290c81-ead6-4670-aa54-1043804ab221",
-    "keyword": "ans_d8a9d85f-69c3-4f25-8d99-913b84c20830",
-    "answer": "__call_action__",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "c9cdb4b0e1a1a21503269830c2c31ee5",
-    "from": "5215561146270"
-  },
-  {
-    "ref": "ans_6c92bb5e-7e4a-4cb2-9b12-60169d40208a",
-    "keyword": "key_2fec6927-5ca6-4c35-b73b-1026b2afe7e5",
-    "answer": "Inicializando la demo..",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "764d653059a94949ea86d5648769676b",
-    "from": "5215561146270"
-  },
-  {
-    "ref": "ans_2b074990-d8cc-423a-8239-7d593e23ec4a",
-    "keyword": "key_2a8b5fbe-1484-4e64-86cc-1a0173081f4b",
-    "answer": "Listo",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 1000,
-      "idle": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "90d3b0ca8a77cbf155ff2237be690814",
-    "from": "5215561146270"
-  },
-  {
-    "ref": "ans_89f15327-cccb-4c60-8778-e5d375e3cf82",
-    "keyword": "key_c1828c50-961c-4cf0-94d3-9478f819d17a",
-    "answer": "👋 ¡Hola! Soy el asistente virtual del Gimnasio de Box \"Último Round\".",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "72f8747fb053d8b9770731fbade20266",
-    "from": "5215561146270"
-  },
-  {
-    "ref": "ans_a6b5f8e0-4757-4c96-81ff-4ec21b40e512",
-    "keyword": "key_5eb3009d-443f-4e05-8037-c0e2a3d3a43f",
-    "answer": "En el \"Último Round\" ofrecemos clases de box emocionantes. escribe CLASES",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": true,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "nested": [
-        {
-          "ref": "key_835d7a69-cba8-428b-bc71-81184129d568",
-          "keyword": "_event_action__47be24b2-08a9-455e-995c-6adccb3f5023",
-          "options": {
-            "sensitive": false,
-            "regex": false
-          },
-          "refSerialize": "9f00af568f8694d14972004276226778"
-        },
-        {
-          "ref": "ans_f3459832-ec43-4069-b8d6-6c38b976142f",
-          "keyword": "key_835d7a69-cba8-428b-bc71-81184129d568",
-          "answer": "Nuestros horarios son flexibles:\n🕗 Mañanas: 9:00 AM - 12:00 PM\n🕒 Tardes: 4:00 PM - 8:00 PM\n🌙 Noches: 8:30 PM - 10:00 PM",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": false,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "nested": [],
-            "keyword": {},
-            "callback": false
-          },
-          "refSerialize": "74be9d85e8773d877d765e7efbc3d081"
-        },
-        {
-          "ref": "ans_1b6048bd-494c-466e-8299-261148604d4d",
-          "keyword": "ans_f3459832-ec43-4069-b8d6-6c38b976142f",
-          "answer": "¿Quieres reservar una clase de prueba? Escribe RESERVAR",
-          "options": {
-            "media": null,
-            "buttons": [],
-            "capture": true,
-            "child": null,
-            "delay": 0,
-            "idle": null,
-            "nested": [],
-            "keyword": {},
-            "callback": true
-          },
-          "refSerialize": "e19a8705390673af48507e23962763c1"
-        }
-      ],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "03975e667fcd37c90a651220df105b34",
-    "from": "5215561146270"
-  },
-  {
-    "ref": "609f6cbd-1fc0-404c-ba44-f059e78dd99e",
-    "keyword": "03975e667fcd37c90a651220df105b34",
-    "answer": "CLASES",
-    "options": {},
-    "from": "5215561146270",
-    "refSerialize": "00e637d2cca06dfc4ca6d0b11c91feba"
-  },
-  {
-    "ref": "ans_f3459832-ec43-4069-b8d6-6c38b976142f",
-    "keyword": "key_835d7a69-cba8-428b-bc71-81184129d568",
-    "answer": "Nuestros horarios son flexibles:\n🕗 Mañanas: 9:00 AM - 12:00 PM\n🕒 Tardes: 4:00 PM - 8:00 PM\n🌙 Noches: 8:30 PM - 10:00 PM",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "from": "5215561146270"
-  },
-  {
-    "ref": "ans_1b6048bd-494c-466e-8299-261148604d4d",
-    "keyword": "ans_f3459832-ec43-4069-b8d6-6c38b976142f",
-    "answer": "¿Quieres reservar una clase de prueba? Escribe RESERVAR",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": true,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "from": "5215561146270"
-  },
-  {
-    "ref": "cfe26b2d-e84c-49f2-9815-e1d39b5084d2",
-    "answer": "RESERVAR",
-    "options": {},
-    "from": "5215561146270",
-    "refSerialize": "d566f8d7f74d4db951d43e2c36feaba8"
-  },
-  {
-    "ref": "ans_09b5dc02-e847-443b-a26c-ef2cc6c01c07",
-    "keyword": "key_3a40af4e-4fb9-4590-8c77-f484d2626bc5",
-    "answer": "¡Genial! ¿Te gustaría reservar una clase de muestra gratuita?",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "83aeaca729c4a5b15b529a0ab1a21fb0",
-    "from": "5215561146270"
-  },
-  {
-    "ref": "5011e7d7-512c-4bd8-ad70-976cafc61494",
-    "answer": "Perfecto. Para comenzar, ¿puedo obtener tu número de teléfono?",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "5215561146270",
-    "refSerialize": "42563a1aab43ded6a85f8d11cb9bf35c"
-  },
-  {
-    "ref": "ans_7cf7cea2-cc83-4b6e-92b8-9e606c6896f8",
-    "keyword": "ans_09b5dc02-e847-443b-a26c-ef2cc6c01c07",
-    "answer": "Mi número de teléfono es:",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": true,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "fe54b79faba11a9eaf63be5cf38610dd",
-    "from": "5215561146270"
-  },
-  {
-    "ref": "cc67dce5-f2b3-4466-b491-436fd4351115",
-    "keyword": "fe54b79faba11a9eaf63be5cf38610dd",
-    "answer": "2234323",
-    "options": {},
-    "from": "5215561146270",
-    "refSerialize": "c8928526b697a671b5981ed984bf55f9"
-  },
-  {
-    "ref": "ans_7cf7cea2-cc83-4b6e-92b8-9e606c6896f8",
-    "keyword": "ans_09b5dc02-e847-443b-a26c-ef2cc6c01c07",
-    "answer": "Por favor, ingresa un número de teléfono válido.",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": true,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "fe54b79faba11a9eaf63be5cf38610dd",
-    "from": "5215561146270"
-  },
-  {
-    "ref": "6f228c50-c287-4c1b-9f13-2acf4adc5824",
-    "keyword": "fe54b79faba11a9eaf63be5cf38610dd",
-    "answer": "2295281537",
-    "options": {},
-    "from": "5215561146270",
-    "refSerialize": "6ba962d9c041e90a3aa8032b0dc74275"
-  },
-  {
-    "ref": "614767ec-6bea-4ad1-a017-7b5c937fc189",
-    "answer": "¡Gracias! ¿Cuándo te gustaría tomar tu clase de muestra?",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "5215561146270",
-    "refSerialize": "90f4906636d613e02a9b4855998a9eff"
-  },
-  {
-    "ref": "ans_6ccc393b-3c2b-4d7a-9a77-4eb0fffa70c9",
-    "keyword": "ans_7cf7cea2-cc83-4b6e-92b8-9e606c6896f8",
-    "answer": "Me gustaría reservar para",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": true,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "bbcc885dd0cefc13dfeab576114ea335",
-    "from": "5215561146270"
-  },
-  {
-    "ref": "c38727c5-2f79-4aa1-bfa5-483546d484a1",
-    "keyword": "bbcc885dd0cefc13dfeab576114ea335",
-    "answer": "hola",
-    "options": {},
-    "from": "5215561146270",
-    "refSerialize": "79e7fc16f7fb85373fd25a99390f44c0"
-  },
-  {
-    "ref": "f73b3e78-9ed2-4ae8-a903-b8af7aafff56",
-    "answer": "Excelente. Por último, te enviaré un enlace para completar tu reserva.",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "5215561146270",
-    "refSerialize": "d922a6ede9c96441b92a8cca9945b60d"
-  },
-  {
-    "ref": "1025916f-3b92-408b-a80d-e260c343426d",
-    "answer": "¡Todo listo!",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "5215561146270",
-    "refSerialize": "8b29a67d5f9f47592bf31c94b0fbc673"
-  },
-  {
-    "ref": "aa381f25-9f6b-4f95-902e-3bcc3207fc3e",
-    "answer": "Puedes completar tu reserva haciendo clic en este enlace: https://ejemplo.com/comprar",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "5215561146270",
-    "refSerialize": "527559156a97d75aa48e6a8cad322e09"
-  },
-  {
-    "ref": "7b8d8acc-615d-471d-96ad-d41ac2015a09",
-    "keyword": "79e7fc16f7fb85373fd25a99390f44c0",
-    "answer": "gracias",
-    "options": {},
-    "from": "5215561146270",
-    "refSerialize": "81fcae8cb1a09948a92c591b527233ce"
-  },
-  {
-    "ref": "ans_ccf5ec7a-33a3-4287-b7f2-43c00febc2b4",
-    "keyword": "key_cdac733f-fd3d-44bc-9608-27715ef921aa",
-    "answer": "Bivenid@ a *Demo Bot de Semicirculo*",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "1501a21357de888a28d8defe31575a24",
-    "from": "5215561146270"
-  },
-  {
-    "ref": "8e1265c2-dd54-4194-881b-df033bb7e180",
-    "answer": "Soy demobot tu asistente el día de hoy",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "5215561146270",
-    "refSerialize": "973ecaf142fd4c93a733e31222de04f3"
-  },
-  {
-    "ref": "5094cd24-5632-4929-a3de-46d3aff30cea",
-    "answer": "¿Qué tipo de bot quieres probar?\n*1* Bot de reparación de celulares\n*2* Bot para reservar clase de prueba",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "5215561146270",
-    "refSerialize": "b536255bdf68a613e48453a817b71150"
-  },
-  {
-    "ref": "ans_d8a9d85f-69c3-4f25-8d99-913b84c20830",
-    "keyword": "ans_ccf5ec7a-33a3-4287-b7f2-43c00febc2b4",
-    "answer": "Escríbe en el chat el número del bot que quieres probar! ",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": true,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "480c5afb0227840f6107f429563a9045",
-    "from": "5215561146270"
-  },
-  {
-    "ref": "ans_d8a9d85f-69c3-4f25-8d99-913b84c20830",
-    "keyword": "ans_ccf5ec7a-33a3-4287-b7f2-43c00febc2b4",
-    "answer": "Escríbe en el chat el número del bot que quieres probar! ",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": true,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "480c5afb0227840f6107f429563a9045",
-    "from": "5215561146270"
   }
 ]
