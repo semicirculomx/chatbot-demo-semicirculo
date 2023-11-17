@@ -2,7 +2,7 @@ const { addKeyword, EVENTS } = require("@bot-whatsapp/bot");
 const flowDistribuidor = require("./flowDistribuidor");
 
 
-const flowPrincipal = addKeyword(EVENTS.WELCOME)
+const flowPrincipal = addKeyword('DEMOBOT')
 .addAnswer('Bivenid@ a *Demo Bot de Semicirculo*', null, async (_, { flowDynamic }) => {
   try {
       await flowDynamic([
