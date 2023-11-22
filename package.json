@@ -9,7 +9,7 @@
     },
     "keywords": [],
     "dependencies": {
-        "@bot-whatsapp/bot": "^0.1.33",
+        "@bot-whatsapp/bot": "0.0.187-alpha.0",
         "@bot-whatsapp/cli": "^0.1.34",
         "@bot-whatsapp/database": "^0.1.34",
         "@bot-whatsapp/portal": "^0.1.34",

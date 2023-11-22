@@ -23,6 +23,7 @@ const flujoBienvenida = require("./flows/flowBienvenida_gym");
 const flujoPedirDatos = require("./flows/pedirDatos_gym");
 const flujoInformacion = require("./flows/flowInfo_gym");
 const flujoReserva = require("./flows/flowReservas_gym");
+const flujoCancelar = require("./flows/flujoCancelar");
 
 /**
  * Funcion principal
@@ -42,7 +43,8 @@ const main = async () => {
     flujoBienvenida,
     flujoPedirDatos,
     flujoInformacion,
-    flujoReserva
+    flujoReserva,
+    flujoCancelar
   ]);
   
   const adapterProvider = createProvider(BaileysProvider);

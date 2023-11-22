@@ -1,8 +1,11 @@
 const { addKeyword, EVENTS } = require('@bot-whatsapp/bot');
 const flujoBienvenida = require("./flowBienvenida_gym");
+const delay = require('../utils');
 
 const flowActivarDemoGym = addKeyword(EVENTS.ACTION)
-.addAnswer('Listo', {delay: 1000}, (ctx, ctxFn) => {
+.addAnswer('Listo', null, async (ctx, ctxFn) => {
+    await delay(1000)
+    console.log('flow_activador')
     try {
         if(ctx.body === '1'){
             console.log('activador_gym');
