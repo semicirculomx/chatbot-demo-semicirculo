@@ -158,7 +158,8 @@ if(ctx?.idleFallBack) return ctxFn.gotoFlow(flujoCancelar)
 - Costo: *$${plan.cost}.00 MXN*
   
 - Detalles: ${plan.description}
-        `,
+
+Puedes comprar tu plan directamente entrando a este link: ${plan.buyLink}`,
       },
     ])
   }
